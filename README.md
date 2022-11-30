@@ -12,7 +12,7 @@ OBS: Entendo a real importância dos testes, porém, como foi o meu primeiro con
 
 No desenvolvimento deste projeto tentei adotar ao máximo o manifesto ágil, realizando um planejamento do que iria precisar para concluir as tarefas e estabelecendo o backlog. Infelizmente o projeto teve muitos contratempos por ter que parar constantemente para procurar os conhecimentos para superar os desafios e aprender mais sobre Angular .
 
-Na minha próxima sprint eu vou trabalhar na construção de um backend definitivo, pois por motivo de tempo eu fiz um arquivo de mock para simular um backend na pasta `app/_helpers/fake-backend` para realizar o login quardando as informações do usuário em LocalStorage.
+Na minha próxima sprint eu vou trabalhar na construção de um backend definitivo, pois por motivo de tempo eu fiz um arquivo de mock para simular um backend na pasta `app/_helpers/fake-backend` para realizar o login guardando as informações do usuário em LocalStorage.
 
 Com o backend criado em NodeJs eu vou dar continuidade no desenvolvimento implementando o painel para o CRUD de imovéis e edição de informações de usuário.
 
