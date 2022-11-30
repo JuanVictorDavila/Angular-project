@@ -1,4 +1,4 @@
-# JuanVictorEnerginAngula
+# Juan-Victor-Angular
 
 Este projeto foi criado usando [Angular CLI](https://github.com/angular/angular-cli) versão 14.2.9.
 
