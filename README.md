@@ -18,7 +18,7 @@ Com o backend criado em NodeJs eu vou dar continuidade no desenvolvimento implem
 
 ## Development status
 
-Neste momento o projeto ainda está incompleto e em desenvolvimento, com a tela de login funcionando com autenticação JWT e armazenado as informações de cadastro de usuário em LocalStorage. Estou em busca de conhecimentos para conluir a montagem do Front usando Angular 2+ após terminar a construção do backend definitivo para este projeto com NodeJs em conjunto com o Express.js para montar o servidor.
+Neste momento o projeto ainda está incompleto e em desenvolvimento, com a tela de login funcionando com autenticação JWT e armazenado as informações de cadastro de usuário em LocalStorage. Estou em busca de conhecimentos para conluir a montagem do Front usando Angular 2+ após terminar a construção do backend definitivo para este projeto com NodeJs em conjunto com o Express.js para montar o servidor baseado na arquitetura MSC(Model - Service - Controller).
 
 ## Development server
 
