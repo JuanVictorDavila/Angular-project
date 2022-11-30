@@ -32,11 +32,11 @@ Rodar comando `ng generate component component-name` para gerar um novo componen
 
 Rodar comando `ng build` para fazer a nuild do projeto. A build vai ser armazenada no diretório `dist/`.
 
-## Running unit tests
+## Running unit tests(not implemented yet)
 
 Rodar comando `ng test` para executar os testes unitários via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Running end-to-end tests(not implemented yet)
 
 Rodar comando `ng e2e` para executar os testes end-to-end via plataforma escolhida por você. Para usar este comando, você precisa primeiramente adicionar um pacote que tem a capacidade de implementar os testes end-to-end.
 
